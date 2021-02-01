@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_native_key">394263074984724</string>
+    <string name="facebook_app_secret_token">acfc640e156f2a70ddf301dda1f03fd3</string>
+</resources>
